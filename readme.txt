@@ -11,3 +11,5 @@ markdown note markdown note
 markdown note 
 
 这是新的版本
+
+简化命令
